@@ -1,6 +1,6 @@
 #  Note-Taking App
 
-A note taking app build with complete Nodejs, ExpressJs , Tailwindcss and EJS 
+A note taking app build with complete Nodejs, ExpressJs , Tailwindcss and EJS .
 
   
 
